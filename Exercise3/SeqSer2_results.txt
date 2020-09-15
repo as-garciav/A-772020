@@ -1,0 +1,9 @@
+Output directory:	/home/angelsophie/Documents/Agrosavia/Technical_test/coding_assessment_exercise-master/exercise_3/SeqSero_result_09_14_2020_14_11_522193820	/home/angelsophie/Documents/Agrosavia/Technical_test/coding_assessment_exercise-master/exercise_3/SeqSero_result_09_14_2020_15_20_145959996	/home/angelsophie/Documents/Agrosavia/Technical_test/coding_assessment_exercise-master/exercise_3/SeqSero_result_09_14_2020_15_20_361381594
+Input files:	332-PUJ_S2_L001.fasta	45-CA-OC_S4_L001.fasta	1657-PUJ_S5_L001.fasta
+O antigen prediction:	9	9	4
+H1 antigen prediction(fliC):	l,v	l,z28	i
+H2 antigen prediction(fljB):	1,5	1,5	-
+Predicted subspecies:	I	I	I
+Predicted antigenic profile:	9:l,v:1,5	9:l,z28:1,5	4:i:-
+Predicted serotype:	Panama	Javiana	I 4,[5],12:i:-
+Note:			
